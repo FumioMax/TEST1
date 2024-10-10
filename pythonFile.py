@@ -1,0 +1,5 @@
+a1 = int(input("Enter a1: "))
+a2  = int(input("Enter a2"))
+b1 = int(input("enter b1"))
+b2 = int(input("enter b2"))
+print(a1*b1 + a2*b2)
